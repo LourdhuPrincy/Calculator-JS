@@ -8,3 +8,5 @@
 
 In this calculator project I have used eval() functions to perform the arithmatic operations. I came to know this eval()fun with the help of mdn documents.
 I have created separete functions for all clear and backspace operations.
+
+[live link](https://calculte-js.netlify.app/)
